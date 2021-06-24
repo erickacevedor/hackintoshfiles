@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>DisplayProductName</key>
+  <string>S22F350 - forced RGB mode (EDID override)</string>
+  <key>IODisplayEDID</key>
+  <data>AP///////wBMLRoNRk1aWjQdAQOAMBt4IlKVpVZUnSUOUFS/74BxT4HAgQCB
+gJUAqcCzAAEBAjqAGHE4LUBYLEUA3QwRAAAeAAAA/QAySx5REQAKICAgICAg
+AAAA/ABTMjJGMzUwCiAgICAgAAAA/wBINFpNQzAyMTIzCiAgAOY=
+</data>
+  <key>DisplayVendorID</key>
+  <integer>19501</integer>
+  <key>DisplayProductID</key>
+  <integer>3354</integer>
+</dict>
+</plist>

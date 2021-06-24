@@ -1,0 +1,1 @@
+bueno ahí me dejé la carpeta completa del EFI por si algo, y además la otra carpeta que se llama Displays va dentro de /Macintosh HD/Library/ que es pa hacer funcionar la vaina de los displays (dos monitores con la RX 550)
